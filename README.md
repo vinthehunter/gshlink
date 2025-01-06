@@ -1,0 +1,2 @@
+# gshlink
+subdomain takeover
